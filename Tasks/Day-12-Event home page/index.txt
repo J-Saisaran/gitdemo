@@ -1,0 +1,13 @@
+ <div class="row"  >
+        <div class="col-md-3">
+            <div class="main1"> 
+                
+                <div class="row">
+                <h2 class="text-center" style="padding-left: 75px;">Event 1</h2>
+                 </div>
+
+            <div class="row">
+                <div class="col-md-6" >
+                  <div class="main2" style="padding: 20px;">
+                <div class=" main3" style="padding-top: 10px;">Image</div></div></div>
+            </div> 

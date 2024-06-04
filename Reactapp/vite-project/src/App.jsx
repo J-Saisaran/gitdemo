@@ -4,7 +4,7 @@ import { useState } from "react"
 export default function App() {
   //JS starts
 
-  const people = ["Abhishek", "Bala", "Deva", "Harish"];
+  
 
   const users = [
     {
@@ -28,9 +28,9 @@ export default function App() {
   return (
     <div className="App">
       <Counter />
-      { {users.map((usr) => (
+      {/* {users.map((usr) => (
         <Welcome name={usr.name} age={usr.age} pic={usr.pic} />
-      ))} }
+      ))} */}
     </div>
   );
   //JSX ends

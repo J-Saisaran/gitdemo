@@ -1,5 +1,5 @@
-document.querySelector("button").addEventListener("click",result)
 
+document.querySelector("button").addEventListener("click",result)
 async function result(){
     try {
         var ask = document.getElementById("Shows").value; 
@@ -34,7 +34,4 @@ function card_info(info){
     </div>
   </div>`
   document.body.append(col);
-
-
-
 }
